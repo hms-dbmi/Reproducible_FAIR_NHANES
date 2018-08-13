@@ -1,5 +1,7 @@
 # ReproducibleFAIR
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1344705.svg)](https://doi.org/10.5281/zenodo.1344705)
+
 ## What is the purpose of this repository ?
 
 This GitHub repository serves as an illustration of an attempt to create a reproducible and F.A.I.R (findable, accessible, interoperable, reusable) statistical analysis and is associated with an article whose reference will be added soon in this section. 
