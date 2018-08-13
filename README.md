@@ -23,10 +23,13 @@ In order to retrieve the metadata of this Github repository, you can type its na
 
 ## Resources on F.A.I.R guidelines
 
- [FORCE11](https://www.force11.org/fairprinciples)
- [FAIR-TLC](bit.ly/fair-tlc)
- [FAIRMetrics](https://github.com/FAIRMetrics/Metrics)
- [DTLS](https://www.dtls.nl/fair-data/fair-principles-explained)
+ [FORCE11](https://www.force11.org/fairprinciples) 
+ 
+ [FAIR-TLC](bit.ly/fair-tlc) 
+ 
+ [FAIRMetrics](https://github.com/FAIRMetrics/Metrics) 
+ 
+ [DTLS](https://www.dtls.nl/fair-data/fair-principles-explained) 
 
 ## License
 
