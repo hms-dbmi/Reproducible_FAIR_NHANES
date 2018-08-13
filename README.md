@@ -29,7 +29,7 @@ In order to retrieve the metadata of this Github repository, you can type its na
 
  [FORCE11](https://www.force11.org/fairprinciples) 
  
- [FAIR-TLC](bit.ly/fair-tlc) 
+ [FAIR-TLC](https://zenodo.org/record/203295#.W3HO8rjZAe0) 
  
  [FAIRMetrics](https://github.com/FAIRMetrics/Metrics) 
  
