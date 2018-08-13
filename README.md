@@ -21,7 +21,7 @@ _More information about the reproducibility aspects are provided in the article 
 ## F.A.I.R compliance
 
 Having a unique identifier and rich metadata that describe the digital object are the most essential part on how to achieve "fairness". We associated a D.O.I (digital object identifier) to the repository by using [Zenodo](https://zenodo.org/).
-In order to retrieve the metadata of this Github repository, you can type its name in the searchbox of [datamed.org](https://datamed.org/). 
+To retrieve the rich metadata of this Github repository, you can type its name in the searchbox of Zenodo. 
 
 ### Resources on F.A.I.R guidelines
 
