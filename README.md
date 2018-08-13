@@ -3,6 +3,7 @@
 ## What is the purpose of this repository ?
 
 This GitHub repository serves as an illustration of an attempt to create a reproducible and F.A.I.R (findable, accessible, interoperable, reusable) statistical analysis and is associated with an article whose reference will be added soon in this section. The analysis is performed on public NHANES (National Health and Nutrition Examination Survey) data collected between 1999 and 2012. You can find the database [here](https://nhanes.hms.harvard.edu/). 
+
 _More information on CDC NHANES [here](https://www.cdc.gov/nchs/nhanes/index.htm)._
 
 Both reproducibility and “fairness” concepts are relevant and complementary. They promote a more open, discoverable and credible science. For this reason, they should ideally be strived for by any researchers.
