@@ -23,7 +23,7 @@ _More information about the reproducibility aspects are provided in the article 
 Having a unique identifier and rich metadata that describe the digital object are the most essential part on how to achieve "fairness". We associated a DOI to the repository by using [Zenodo](https://zenodo.org/).
 In order to retrieve the metadata of this Github repository, you can type its name in the searchbox of [datamed.org](https://datamed.org/). 
 
-## Resources on F.A.I.R guidelines
+### Resources on F.A.I.R guidelines
 
  [FORCE11](https://www.force11.org/fairprinciples) 
  
@@ -33,6 +33,6 @@ In order to retrieve the metadata of this Github repository, you can type its na
  
  [DTLS](https://www.dtls.nl/fair-data/fair-principles-explained) 
 
-## License
+### License
 
 Apache 2 license
