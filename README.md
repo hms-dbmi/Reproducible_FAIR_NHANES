@@ -25,6 +25,8 @@ In order to retrieve the metadata of this Github repository, you can type its na
 
 ### Resources on F.A.I.R guidelines
 
+ [The FAIR Guiding Principles for scientific data management and stewardship](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4792175/)
+
  [FORCE11](https://www.force11.org/fairprinciples) 
  
  [FAIR-TLC](bit.ly/fair-tlc) 
