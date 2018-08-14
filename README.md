@@ -1,4 +1,4 @@
-# ReproducibleFAIR
+# Reproducible_FAIR_NHANES
 
 
 ## What is the purpose of this repository ?
