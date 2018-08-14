@@ -12,7 +12,7 @@ _More information on CDC NHANES [here](https://www.cdc.gov/nchs/nhanes/index.htm
 ## Reproducibility
 
 By publishing a repository with an Apache 2 license, you can make use of every element of the repository. The query of data is detailed in the ipynb file.
-You can also execute the code by clicking this button : [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/hms-dbmi/ReproducibleFAIR/master) and share it via this link https://mybinder.org/v2/gh/hms-dbmi/ReproducibleFAIR/master
+You can also execute the code by clicking this button : [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/hms-dbmi/Reproducible_FAIR_NHANES/master) and share it via this link https://mybinder.org/v2/gh/hms-dbmi/Reproducible_FAIR_NHANES/master
 (_The loading of the page might take up to ten minutes. Feel free to click on the "show" button to make sure that the process of building logs is on if it is taking too much time. Note that he loading might even fail from time to time. This might be viewed as an environment's alternative to execute the code and not as a completely reliable way to reproduce a computationnal work_ )
 
 If you want to execute the code in your own R console; you also have the opportunity to directly download the code (R_code_of_the_statistical_analysis.R).
