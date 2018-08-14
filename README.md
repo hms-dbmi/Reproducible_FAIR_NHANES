@@ -1,5 +1,6 @@
 # Reproducible_FAIR_NHANES
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1345320.svg)](https://doi.org/10.5281/zenodo.1345320)
 
 ## What is the purpose of this repository ?
 
