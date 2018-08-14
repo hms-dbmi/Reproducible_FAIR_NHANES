@@ -44,4 +44,5 @@ To retrieve the rich metadata of this Github repository, you can type its name i
 Apache 2 license
 
 Please cite ReproducibleFAIR in your publications as:
+
 Norah ANTHONY. (2018, August 13). ReproducibleFAIR (Version v1.1). Zenodo. http://doi.org/10.5281/zenodo.1344705
