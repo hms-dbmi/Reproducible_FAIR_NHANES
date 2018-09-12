@@ -8,7 +8,9 @@
 
 This GitHub repository serves as an illustration of our way to create a reproducible and F.A.I.R (findable, accessible, interoperable, reusable) statistical analysis and is associated with an article whose reference will be added soon in this section. Both reproducibility and “fairness” concepts are relevant and complementary. They promote a more open, discoverable and credible science. For this reason, they should ideally be strived for by any researchers.
 
-The analysis presented in the Jupyter notebook (ipynb file) is performed on public National Health and Nutrition Examination Survey (NHANES) data collected between 1999 and 2006. Data were queried from the following interactive database https://nhanes.hms.harvard.edu/. Also we provide here the data in csv format (NHANES.txt) with the six variables of interest only. The whole NHANES dataset from this period is archived and can be found on dryad digital repository at http://dx.doi.org/10.5061/dryad.d5h62.
+The analysis presented in the Jupyter notebook (ipynb file) is performed on public National Health and Nutrition Examination Survey (NHANES) data collected between 1999 and 2006. Data were queried from the following interactive database https://nhanes.hms.harvard.edu/. Also we provide here the data in csv format (NHANES.txt) with the six variables of interest only. 
+
+The whole NHANES dataset from this period and variables description are archived and can be found on dryad digital repository at http://dx.doi.org/10.5061/dryad.d5h62.
 
 _More information on CDC NHANES [here](https://www.cdc.gov/nchs/nhanes/index.htm)._
 
